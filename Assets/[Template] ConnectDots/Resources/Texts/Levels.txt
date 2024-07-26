@@ -1,0 +1,10 @@
+Level
+Dots:[5]
+YAxis:[False]
+GradientColors:[0.934, 0.934, 0.934, 0.000|0.031, 0.040, 0.311, 0.000]
+Connectors:[0,24]
+Multi:[12]
+Disabled:[]
+Removed:[]
+Colors:[0.000, 1.000, 0.130, 1.000|0.764, 0.112, 0.538, 1.000]
+Portals:[]

@@ -4,5 +4,8 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/[Template] ConnectDots/Resources/Scenes/DemoGamePlayScene.unity
+    guid: 71bddf8899bfaa64d8fb3d7e86f38134
   m_configObjects: {}
